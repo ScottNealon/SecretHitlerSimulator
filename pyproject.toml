@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "SecretHitlerSimulator"
+description = "A python library for running AI games of Secret Hitler"
+version = "0.0"
+authors = [
+    {name = "Scott Nealon", email = "nealon.scott@gmail.com"}
+]
+dependencies = []
